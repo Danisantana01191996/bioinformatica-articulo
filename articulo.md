@@ -1,4 +1,4 @@
-#Artículo:![imp1](/home/daniela/Imágenes/titulo.png) 
+#Artículo:![titulo](https://github.com/Danisantana01191996/bioinformatica-articulo/blob/master/titulo.png) 
 
 #¿Por qué no puedo reproducir éste artículo?
 
