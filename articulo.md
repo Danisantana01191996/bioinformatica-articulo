@@ -8,15 +8,15 @@ A pesar de que el artículo se encuentra casi completamente descrito, en realida
 Probablemente podrían reproducirse los siguientes pasos:
 * Extracción RNA
 
-![rna extraccion](/home/daniela/Imágenes/rna extraccion.png)
+![rna extraccion](https://github.com/Danisantana01191996/bioinformatica-articulo/blob/master/rna%20extraccion.png)
 
 Lo anterior puede llevarse a cabo puesto que si marcan las técnicas usadas (_método fenol-cloroformo_). Aunque parece ser que esta redactado a manera de que no se reproduzca, dice el kit que usaron para la extracción: **Sigma-aldrich**.
 
 
 * Obtencion de primers
 
-![primers1](/home/daniela/Imágenes/primers1.png)
-![primers2](/home/daniela/Imágenes/primers2.png)
+![primers1](https://github.com/Danisantana01191996/bioinformatica-articulo/blob/master/primers1.png)
+![primers2](https://github.com/Danisantana01191996/bioinformatica-articulo/blob/master/primers2.png)
 
 Lo anterior esta reportado en **NCBI**, por lo tanto puede llevarse _a cabo_.
 
